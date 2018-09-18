@@ -767,7 +767,7 @@
       "web-html"
     ],
     "repo": "https://github.com/utkarshkukreti/purescript-hedwig.git",
-    "version": "cb047274336b989a46e50bc9562afbccce5f6e33"
+    "version": "master"
   },
   "http-methods": {
     "dependencies": [
